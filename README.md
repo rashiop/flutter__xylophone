@@ -1,16 +1,15 @@
 # xylophone
 
-Trying out package
+Trying out package audioplayers
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+### How to use a package
+1. Choose a package score -> maintability + code quality ((make sure it wont cause stupid break on update))
+2. Edit pubspec.yaml -> depedencies -> pub get
+3. Implement
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### What we've learned
+1. use package
+2. separate render item
+3. arrow function
+4. function in dart
